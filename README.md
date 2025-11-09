@@ -1,0 +1,2 @@
+# Radar-de-Fraude-en-Tiempo-Real-Simulador-Inteligente-de-Detecci-n-de-Transacciones-Sospechosas.
+Aplicación en Python (FastAPI + WebSocket) que simula un sistema antifraude en e-commerce: genera transacciones en tiempo real, las puntúa con ML (Isolation Forest) y reglas, guarda resultados en SQLite y las muestra en un dashboard con métricas, alertas y explicaciones (RiskBot). Es 100% local y puede integrarse a Kafka/APIs para producción.
